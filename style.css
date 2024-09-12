@@ -1,0 +1,118 @@
+.violet{
+    background: blueviolet;
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    display: flex;
+    gap: 5px;
+}
+.orange{
+    background-color: orange;
+    height: 70px;
+    width: 70px;
+    border-radius: 15px;
+    
+}
+.wiolet{
+    background: blueviolet;
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    display: flex;
+    gap: 5px;
+}
+.qiolet{
+    background: blueviolet;
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    display: flex;
+    gap: 5px;
+}
+.riolet{
+    background: blueviolet;
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+.piolet{
+    background: blueviolet;
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: end;
+    gap: 5px;
+}
+.tiolet{
+    background: blueviolet;
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    display: flex;
+    align-items: end;
+    gap: 5px;
+}
+.giolet{
+    background: blueviolet;
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+.diolet{
+    background: blueviolet;
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+.liolet{
+    background: blueviolet;
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.fiolet{
+    background: blueviolet;
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    gap: 5px;
+}
+.biolet{
+    background: blueviolet;
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    gap: 5px;
+}
+.miolet{
+    background: blueviolet;
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    gap: 5px;
+}
